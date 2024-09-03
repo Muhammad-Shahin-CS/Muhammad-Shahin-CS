@@ -2,15 +2,15 @@
 <h3 align="center">A passionate AI Developer specializing in computer vision from India.</h3>
  
 
-<h4 align="left">
-  🔭 I’m currently working as an **AI Developer** at Ombrulla.<br><br>
-  🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
-  👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
-  🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
-  💬 Ask me about **AI, computer vision, or machine learning image analytics.**<br><br>
-  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
-  🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
-</h4>
+
+-  🔭 I’m currently working as an **AI Developer** at Ombrulla.<br><br>
+-  🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
+-  👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
+-  🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
+-  💬 Ask me about **AI, computer vision, or machine learning image analytics.**<br><br>
+-  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
+-  🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
