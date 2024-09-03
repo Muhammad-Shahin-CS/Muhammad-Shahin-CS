@@ -3,11 +3,11 @@
  
 
 <h4 align="left">
-  🔭 I’m currently working as an <strong>AI Developer</strong> at Ombrulla.<br><br>
+  🔭 I’m currently working as an **AI Developer** at Ombrulla.<br><br>
   🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
   👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
   🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
-  💬 Ask me about <strong>AI, computer vision, or machine learning image analytics.</strong><br><br>
+  💬 Ask me about **AI, computer vision, or machine learning image analytics.**<br><br>
   📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
   🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
 </h4>
