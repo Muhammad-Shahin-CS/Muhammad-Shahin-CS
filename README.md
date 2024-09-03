@@ -7,7 +7,7 @@
 -  🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
 -  👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
 -  🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
--  💬 Ask me about **AI, computer vision, or machine learning image analytics.**<br><br>
+-  💬 Ask me about **AI, computer vision, machine learning, image analytics.**<br><br>
 -  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
 -  🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
 
@@ -94,9 +94,9 @@
 <!--     <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
     </a> -->
-    <a href="https://github.com/abhiTronix/VideoGear" target="_blank" rel="noreferrer">
+<!--     <a href="https://github.com/abhiTronix/VideoGear" target="_blank" rel="noreferrer">
         <img src="https://repository-images.githubusercontent.com/206695677/255a2c00-e2b3-11e9-88aa-06ef277f6d6a" alt="VideoGear" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
     </a>
