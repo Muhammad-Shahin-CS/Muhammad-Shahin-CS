@@ -32,9 +32,9 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
     </a>
-    <a href="https://ultralytics.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://ultralytics.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/ultralytics/yolov5/blob/master/docs/assets/logo.png" alt="Ultralytics" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
     </a>
@@ -68,9 +68,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
     </a>
@@ -89,24 +89,24 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+<!--     <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beautifulsoup.svg" alt="Web Scraping" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://mediapipe.dev/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/43199604?s=200&v=4" alt="Mediapipe" width="40" height="40"/>
     </a>
-    <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://gstreamer.freedesktop.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://github.com/abhiTronix/VideoGear" target="_blank" rel="noreferrer">
         <img src="https://repository-images.githubusercontent.com/206695677/255a2c00-e2b3-11e9-88aa-06ef277f6d6a" alt="VideoGear" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
     </a>
-    <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
+<!--     <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
         <img src="https://onnx.ai/images/logo.png" alt="ONNX" width="40" height="40"/>
-    </a>
+    </a> -->
 </p>
 
 
