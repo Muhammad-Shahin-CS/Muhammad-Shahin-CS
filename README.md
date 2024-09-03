@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahin CS</h1>
 <h3 align="center">A passionate AI Developer specializing in computer vision from India.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Shahin-CS" alt="Profile views" />
-</p>
+
+
 
 <p>
   🔭 I’m currently working on AI and computer vision projects, including object detection and image segmentation.<br>
