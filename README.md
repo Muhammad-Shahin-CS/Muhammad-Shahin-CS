@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Developer specializing in computer vision from India.</h3>
  
 
-<h6 align="left">
+<h4 align="left">
   🔭 I’m currently working as an <strong>AI Developer</strong> at Ombrulla.<br><br>
   🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
   👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
@@ -10,7 +10,7 @@
   💬 Ask me about <strong>AI, computer vision, or machine learning image analytics.</strong><br><br>
   📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
   🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
-</h6>
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
