@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahin CS</h1>
 <h3 align="center">A passionate AI Developer specializing in computer vision from India.</h3>
+ 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Shahin-CS" alt="Profile views" />
-</p>
-
-<h5 align="left">
+<h6 align="left">
   🔭 I’m currently working as an <strong>AI Developer</strong> at Ombrulla.<br><br>
   🌱 I’m currently working on AI and computer vision projects and researching advanced techniques in neural networks and computer vision algorithms.<br><br>
   👯 I’m looking to collaborate on cutting-edge AI research and innovative computer vision applications.<br><br>
   🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
   💬 Ask me about <strong>AI, computer vision, or machine learning image analytics.</strong><br><br>
-  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br>
-  ⚡ Fun fact: I enjoy experimenting with new technologies and applying them to solve complex visual and analytical problems.<br><br>
+  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
   🌐 Personal website: <a href="https://shahin-shah.netlify.app">shahin-shah.netlify.app</a>
-</h5>
+</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -108,10 +104,4 @@
         <img src="https://onnx.ai/images/logo.png" alt="ONNX" width="40" height="40"/>
     </a> -->
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Shahin-CS&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shahin-CS&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shahin-CS&" alt="GitHub Streak" /></p>
+ 
