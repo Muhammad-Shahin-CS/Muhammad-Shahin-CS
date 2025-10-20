@@ -9,7 +9,7 @@
 -  🤔 I’m looking for help with optimizing deep learning models and integrating AI solutions into practical applications.<br><br>
 -  💬 Ask me about **AI, computer vision, machine learning, image analytics.**<br><br>
 -  📫 How to reach me: <a href="mailto:shahtechiee@gmail.com">shahtechiee@gmail.com</a><br><br> 
--  🌐 Personal website: <a href="https://shah.vercel.app">shahin-shah.netlify.app</a>
+-  🌐 Personal website: <a href="https://shah.vercel.app">shahin-shah.app</a>
 
 
 <h3 align="left">Connect with me:</h3>
